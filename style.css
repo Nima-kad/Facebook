@@ -10,8 +10,9 @@ body {
 }
 img{
     width: 100%;
-    max-width: 400px;
-    height: 100px;
+    max-width: 300px;
+    padding: 20px;
+    margin: 10px;
 }
 .Créé-compte{
     border-bottom: 1px solid #ccc;
